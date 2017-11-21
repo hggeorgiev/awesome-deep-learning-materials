@@ -18,8 +18,16 @@ Contributions are welcome
 * [5 Step Life-Cycle for Neural Network Models in Keras](https://machinelearningmastery.com/5-step-life-cycle-neural-network-models-keras/)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 
+### Kur
+* [Getting started with Kur](http://kur.deepgram.com/)
 
 ## Research papers
 
 * [deeplearning.net research paper reading list](http://deeplearning.net/reading-list/)
+* [Automatic Log Analysis using
+Machine Learning](http://uu.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pdf)
+* [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738v4.pdf)
 
+## Blogs
+
+* [WildML - Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com/)
