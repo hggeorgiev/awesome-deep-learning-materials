@@ -67,6 +67,7 @@ Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf]
 * [One-Shot Imitation Learning](https://arxiv.org/pdf/1703.07326.pdf)
 * [Connectionist Temporal Classification: Labelling Unsegmented
 Sequence Data with Recurrent Neural Networks](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
+* [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 
 ## Blogs
 
