@@ -1,6 +1,6 @@
 # awesome-deep-learning-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated learning materials from Centroida's Deep Learning team
+Curated learning materials from [Centroida](https://github.com/Centroida)'s Deep Learning team
 
 Contributions are welcome
 
@@ -26,6 +26,9 @@ Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 * [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 * [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+* [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+* [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
+* [Compressing deep neural nets](http://machinethink.net/blog/compressing-deep-neural-nets/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Deep%20Learning%20Weekly)
 
 #### Keras
 
@@ -34,12 +37,14 @@ Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 * [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Keras plays catch, a single file Reinforcement Learning example](http://edersantana.github.io/articles/keras_rl/])
-
+* [Attacking Machine Learning with Adversarial Examples](https://blog.openai.com/adversarial-example-research/)
+* [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Deep%20Learning%20Weekly)
 
 ## Examples
 
 * [Practical seq2seq](https://github.com/farizrahman4u/seq2seq)
 * [Attention Entailment with Keras](https://github.com/shyamupa/snli-entailment/blob/master/amodel.py)
+* [Tensorflow/Cleverhans](https://github.com/tensorflow/cleverhans/tree/master/cleverhans)
 
 ## Research papers
 
@@ -68,6 +73,23 @@ Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf]
 * [Connectionist Temporal Classification: Labelling Unsegmented
 Sequence Data with Recurrent Neural Networks](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
+* [Deep Networks With Large Output Spaces](https://arxiv.org/abs/1412.7479)
+* [Deep metric learning using Triplet network](https://arxiv.org/abs/1412.6622)
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+* [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199v4.pdf)
+* [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/pdf/1602.02697.pdf)
+* [How to Parallelize Deep Learning on GPUs Part 1/2: Data Parallelism](http://timdettmers.com/2014/10/09/deep-learning-data-parallelism/)
+* [One weird trick for parallelizing convolutional neural networks](https://arxiv.org/pdf/1404.5997v2.pdf)
+* [Adversarial Examples for Semantic Segmentation and Object Detection](https://arxiv.org/pdf/1703.08603.pdf)
+* [Devling into Transferrable Adversarial Examples
+And Black-box Attacks](https://arxiv.org/pdf/1611.02770.pdf)
+* [ZOO: Zeroth Order Optimization Based Black-box Attacks to
+Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1708.03999.pdf)
+* [Efficient Defenses Against Adversarial Attacks](https://arxiv.org/pdf/1707.06728v2.pdf)
+* [Attentive Recurrent Comparators](https://arxiv.org/pdf/1703.00767.pdf)
+* [Structured Self-Attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130.pdf)
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+* [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
 
 ## Blogs
 
@@ -77,9 +99,11 @@ Sequence Data with Recurrent Neural Networks](ftp://ftp.idsia.ch/pub/juergen/icm
 
  * [Kaggle Datasets](https://www.kaggle.com/datasets)
  * [17 Ultimate Data Science Projects To Boost Your Knowledge and Skill](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/?utm_content=buffer9424a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
- 
- 
+
 ## Miscellaneous
 
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 * [Andrej Karpathy's YouTube channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw/videos)
+* [Failures of Deep Learning](https://www.youtube.com/watch?v=jWVZnkTfB3c)
+* [Delving deep into Generative Adversarial Networks (GANs)](https://github.com/GKalliatakis/Delving-deep-into-GANs)
+* [Latent Dirichlet Allocation](http://videolectures.net/mlss09uk_blei_tm/)
