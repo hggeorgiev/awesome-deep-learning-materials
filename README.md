@@ -4,7 +4,7 @@ Curated learning materials from [Centroida](https://github.com/Centroida)'s Deep
 
 Contributions are welcome
 
-## Computer Vision
+## Computer Vision & Convolutional Neural Networks
 
 ### Articles & Pieces
 * [Object Detection using Deep Learning for advanced users (Part-1)](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19)
@@ -21,8 +21,11 @@ Contributions are welcome
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
 * [Show, Attend and Tell: Neural Image Caption](https://arxiv.org/pdf/1502.03044v3.pdf)
 * [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf)
+* [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
+* [Scene Labeling with LSTM Recurrent Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
+* [Generation with Visual Attention](https://arxiv.org/pdf/1502.03044v3.pdf)
 
-## Natural Language Processing
+## Natural Language Processing & Recurrent Neural Networks
 
 ### Courses
 * [[TORONTO U] Supervised Sequence Labelling with Recurrent
@@ -34,11 +37,21 @@ Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 * [On word embeddings - Part 1](http://ruder.io/word-embeddings-1/)
 * [LSTM with word2vec embeddings](https://www.kaggle.com/lystdo/lstm-with-word2vec-embeddings)
 * [Latent Dirichlet Allocation](http://videolectures.net/mlss09uk_blei_tm/)
+* [Structured Self-Attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130.pdf)
+* [Extracting Information from Text - Chapter 7](http://www.nltk.org/book/ch07.html)
 
 ### Research Papers
 * [NLP from scratch](https://arxiv.org/pdf/1103.0398.pdf)
 * [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444.pdf)
 * [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
+* [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738v4.pdf)
+* [Automatic Log Analysis using
+Machine Learning](http://uu.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pdf)
+* [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
+
+## Examples
+* [Practical seq2seq](https://github.com/farizrahman4u/seq2seq)
+* [Attention Entailment with Keras](https://github.com/shyamupa/snli-entailment/blob/master/amodel.py)
 
 ## Security
 
@@ -58,20 +71,11 @@ Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1
 ### Examples
 * [Tensorflow/Cleverhans](https://github.com/tensorflow/cleverhans/tree/master/cleverhans)
 
-
-
-
-
-
-
-
 ## Courses general
 * [[UDACITY] Definition of ML](https://classroom.udacity.com/courses/ud262/lessons/3625438937/concepts/6405791890923)
 * [[COURSERA] Machine Learning ](https://www.coursera.org/learn/machine-learning)
 
-
 ## Articles General
-* [Extracting Information from Text - Chapter 7](http://www.nltk.org/book/ch07.html)
 * [Scraping for Craft Beers: A Dataset Creation Tutorial](http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/)
 * [10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.bg/2017/02/the-black-magic-of-deep-learning-tips.html?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
@@ -87,32 +91,21 @@ Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1
 * [Keras plays catch, a single file Reinforcement Learning example](http://edersantana.github.io/articles/keras_rl/])
 * [Building a Music Recommender with Deep Learning](http://mattmurray.net/building-a-music-recommender-with-deep-learning/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Deep%20Learning%20Weekly)
 
-## Examples general
-* [Practical seq2seq](https://github.com/farizrahman4u/seq2seq)
-* [Attention Entailment with Keras](https://github.com/shyamupa/snli-entailment/blob/master/amodel.py)
 
 
 ## Research papers general
 * [deeplearning.net research paper reading list](http://deeplearning.net/reading-list/)
-* [Automatic Log Analysis using
-Machine Learning](http://uu.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pdf)
-* [word2vec Parameter Learning Explained](https://arxiv.org/pdf/1411.2738v4.pdf)
 * [Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition](http://www.mdpi.com/1424-8220/16/1/115/htm)
 * [WaveNet: A generative model for raw audio](https://arxiv.org/pdf/1609.03499.pdf)
-* [Scene Labeling with LSTM Recurrent Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
-* [Generation with Visual Attention](https://arxiv.org/pdf/1502.03044v3.pdf)
 * [Reasoning about Entailment with Neural Attention](https://arxiv.org/pdf/1509.06664.pdf)
-* [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 * [One-Shot Imitation Learning](https://arxiv.org/pdf/1703.07326.pdf)
 *  Connectionist Temporal Classification - ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf
-* [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 * [Deep Networks With Large Output Spaces](https://arxiv.org/abs/1412.7479)
 * [Deep metric learning using Triplet network](https://arxiv.org/abs/1412.6622)
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
 * [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199v4.pdf)
 * [How to Parallelize Deep Learning on GPUs Part 1/2: Data Parallelism](http://timdettmers.com/2014/10/09/deep-learning-data-parallelism/)
 * [Attentive Recurrent Comparators](https://arxiv.org/pdf/1703.00767.pdf)
-* [Structured Self-Attentive Sentence Embedding](https://arxiv.org/pdf/1703.03130.pdf)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 * [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
 
