@@ -70,8 +70,7 @@ Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf]
 * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012.pdf)
 * [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 * [One-Shot Imitation Learning](https://arxiv.org/pdf/1703.07326.pdf)
-* [Connectionist Temporal Classification: Labelling Unsegmented
-Sequence Data with Recurrent Neural Networks](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
+* [Connectionist Temporal Classification](ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf)
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 * [Deep Networks With Large Output Spaces](https://arxiv.org/abs/1412.7479)
 * [Deep metric learning using Triplet network](https://arxiv.org/abs/1412.6622)
