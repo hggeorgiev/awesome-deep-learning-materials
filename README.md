@@ -55,7 +55,7 @@ Machine Learning](http://uu.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pd
 * [Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition](http://www.mdpi.com/1424-8220/16/1/115/htm)
 * [NLP from scratch](https://arxiv.org/pdf/1103.0398.pdf)
 * [WaveNet: A generative model for raw audio](https://arxiv.org/pdf/1609.03499.pdf)
-* [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf]
+* [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf)
 * [Scene Labeling with LSTM Recurrent Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
 * [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444.pdf)
 * [Very Deep Convolutional Networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
