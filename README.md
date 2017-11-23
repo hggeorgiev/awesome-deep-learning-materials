@@ -62,7 +62,7 @@ Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf]
 * [Very Deep Convolutional Networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 * [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
-* [Show, Attend and Tell: Neural Image Caption](https://arxiv.org/pdf/1502.03044v3.pdf
+* [Show, Attend and Tell: Neural Image Caption](https://arxiv.org/pdf/1502.03044v3.pdf)
 * [Generation with Visual Attention](https://arxiv.org/pdf/1502.03044v3.pdf)
 * [Reasoning about Entailment with Neural Attention](https://arxiv.org/pdf/1509.06664.pdf)
 * [Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf)
