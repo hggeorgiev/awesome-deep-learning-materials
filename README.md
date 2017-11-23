@@ -12,6 +12,7 @@ Contributions are welcome
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
+
 ### Research Papers
 * [One weird trick for parallelizing convolutional neural networks](https://arxiv.org/pdf/1404.5997v2.pdf)
 * [Colorful Image Colorization](https://arxiv.org/pdf/1603.08511.pdf)
@@ -24,6 +25,7 @@ Contributions are welcome
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 * [Scene Labeling with LSTM Recurrent Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
 * [Generation with Visual Attention](https://arxiv.org/pdf/1502.03044v3.pdf)
+* [Attentive Recurrent Comparators](https://arxiv.org/pdf/1703.00767.pdf)
 
 ## Natural Language Processing & Recurrent Neural Networks
 
@@ -48,6 +50,7 @@ Neural Networks](https://www.cs.toronto.edu/~graves/preprint.pdf)
 * [Automatic Log Analysis using
 Machine Learning](http://uu.diva-portal.org/smash/get/diva2:667650/FULLTEXT01.pdf)
 * [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
+* [Reasoning about Entailment with Neural Attention](https://arxiv.org/pdf/1509.06664.pdf)
 
 ## Examples
 * [Practical seq2seq](https://github.com/farizrahman4u/seq2seq)
@@ -83,8 +86,6 @@ Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1
 * [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 * [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
 * [Compressing deep neural nets](http://machinethink.net/blog/compressing-deep-neural-nets/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Deep%20Learning%20Weekly)
-
-#### Keras
 * [5 Step Life-Cycle for Neural Network Models in Keras](https://machinelearningmastery.com/5-step-life-cycle-neural-network-models-keras/)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
@@ -97,7 +98,6 @@ Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1
 * [deeplearning.net research paper reading list](http://deeplearning.net/reading-list/)
 * [Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition](http://www.mdpi.com/1424-8220/16/1/115/htm)
 * [WaveNet: A generative model for raw audio](https://arxiv.org/pdf/1609.03499.pdf)
-* [Reasoning about Entailment with Neural Attention](https://arxiv.org/pdf/1509.06664.pdf)
 * [One-Shot Imitation Learning](https://arxiv.org/pdf/1703.07326.pdf)
 *  Connectionist Temporal Classification - ftp://ftp.idsia.ch/pub/juergen/icml2006.pdf
 * [Deep Networks With Large Output Spaces](https://arxiv.org/abs/1412.7479)
@@ -105,7 +105,6 @@ Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
 * [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199v4.pdf)
 * [How to Parallelize Deep Learning on GPUs Part 1/2: Data Parallelism](http://timdettmers.com/2014/10/09/deep-learning-data-parallelism/)
-* [Attentive Recurrent Comparators](https://arxiv.org/pdf/1703.00767.pdf)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 * [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
 
