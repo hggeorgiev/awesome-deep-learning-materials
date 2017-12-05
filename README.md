@@ -7,7 +7,7 @@ Contributions are welcome
 ## Computer Vision & Convolutional Neural Networks
 
 ### Courses
-* [Andrej Karpathy's YouTube channel - CS 231n Convolutional Neural Networks for Visual Recognitio](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw/videos)
+* [Andrej Karpathy's YouTube channel - CS 231n Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw/videos)
 
 ### Articles & Pieces
 * [Object Detection using Deep Learning for advanced users (Part-1)](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19)
