@@ -6,6 +6,9 @@ Contributions are welcome
 
 ## Computer Vision & Convolutional Neural Networks
 
+### Courses
+* [Andrej Karpathy's YouTube channel - COS 231n  onvolutional Neural Networks for Visual Recognitio](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw/videos)
+
 ### Articles & Pieces
 * [Object Detection using Deep Learning for advanced users (Part-1)](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
@@ -117,6 +120,5 @@ Deep Neural Networks without Training Substitute Models](https://arxiv.org/pdf/1
 
 ## Miscellaneous
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
-* [Andrej Karpathy's YouTube channel](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw/videos)
 * [Failures of Deep Learning](https://www.youtube.com/watch?v=jWVZnkTfB3c)
 
